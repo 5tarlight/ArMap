@@ -56,5 +56,9 @@ sysinfo.txt
 *.unitypackage
 
 # Crashlytics generated file
-crashlytics-build.properties
 
+crashlytics-build.properties
+vuforia
+Vuforia
+Assets/Editor/Migration
+Packages/*.tgz
